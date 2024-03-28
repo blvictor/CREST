@@ -1,0 +1,35 @@
+HEADER    PROTEIN                                 02-NOV-23   NONE
+TITLE     NULL                                                        
+COMPND    NULL                                                        
+SOURCE    NULL                                                        
+KEYWDS    NULL                                                        
+EXPDTA    NULL                                                        
+AUTHOR    Marvin                                                      
+REVDAT   1   02-NOV-23         0                                  
+HETATM    1  C   UNK     0      -3.863   3.064   0.010  0.00  0.00           C+0
+HETATM    2  C   UNK     0      -2.506   2.487  -0.001  0.00  0.00           C+0
+HETATM    3  C   UNK     0      -1.346   3.262  -0.008  0.00  0.00           C+0
+HETATM    4  C   UNK     0      -1.355   4.740  -0.003  0.00  0.00           C+0
+HETATM    5  C   UNK     0      -2.786   5.314  -0.225  0.00  0.00           C+0
+HETATM    6  N   UNK     0      -3.840   4.492   0.424  0.00  0.00           N+0
+HETATM    7  C   UNK     0      -2.095   1.159  -0.009  0.00  0.00           C+0
+HETATM    8  C   UNK     0      -0.698   1.168  -0.005  0.00  0.00           C+0
+HETATM    9  N   UNK     0      -0.274   2.444  -0.003  0.00  0.00           N+0
+HETATM   10  C   UNK     0      -2.816  -0.048  -0.006  0.00  0.00           C+0
+HETATM   11  C   UNK     0      -2.095  -1.262  -0.003  0.00  0.00           C+0
+HETATM   12  C   UNK     0      -0.682  -1.254  -0.001  0.00  0.00           C+0
+HETATM   13  C   UNK     0       0.032  -0.035  -0.001  0.00  0.00           C+0
+HETATM   14 Br   UNK     0       1.891  -0.029   0.001  0.00  0.00          Br+0
+HETATM   15  H   UNK     0      -4.485   2.523   0.725  0.00  0.00           H+0
+HETATM   16  H   UNK     0      -4.307   2.969  -0.983  0.00  0.00           H+0
+HETATM   17  H   UNK     0      -0.697   5.107  -0.794  0.00  0.00           H+0
+HETATM   18  H   UNK     0      -0.960   5.083   0.956  0.00  0.00           H+0
+HETATM   19  H   UNK     0      -2.996   5.381  -1.296  0.00  0.00           H+0
+HETATM   20  H   UNK     0      -2.841   6.325   0.187  0.00  0.00           H+0
+HETATM   21  H   UNK     0      -4.741   4.893   0.154  0.00  0.00           H+0
+HETATM   22  H   UNK     0       0.653   2.730   0.001  0.00  0.00           H+0
+HETATM   23  H   UNK     0      -3.838  -0.049  -0.004  0.00  0.00           H+0
+HETATM   24  H   UNK     0      -2.601  -2.150   0.000  0.00  0.00           H+0
+HETATM   25  H   UNK     0      -0.177  -2.143   0.001  0.00  0.00           H+0
+MASTER        0    0    0    0    0    0    0    0   25    0    0    0
+END
